@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Game/DbConnect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/DrawSomething.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/Drawpoint.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/FunctionPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/GuessPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/Login.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/PaintPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Game/StartGame.java" charset="GBK" />
+  </component>
+</project>
